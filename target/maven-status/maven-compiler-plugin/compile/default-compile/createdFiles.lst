@@ -1,0 +1,9 @@
+com\flipcard\utils\DBUtil.class
+com\flipcard\test\App.class
+com\flipcard\dao\UserDao.class
+com\flipcard\rest\AdminRestController.class
+com\flipcard\service\UserServiceInterface.class
+com\flipcard\constant\SQLConstantQueries.class
+com\flipcard\dao\UserDaoImpl.class
+com\flipcard\service\UserServiceOperation.class
+com\flipcard\bean\Student.class
